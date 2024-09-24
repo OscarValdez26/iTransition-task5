@@ -1,4 +1,5 @@
-const URL = "https://task5-backend-c24a36d09967.herokuapp.com/getusers";
+const URL = "https://task5-backend-bb0aabfe51b7.herokuapp.com/getusers";
+
 
 export async function getData(json) {
     try {
